@@ -44,4 +44,7 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/RudrasenaReddy87/RudrasenaReddy87.git
           git fetch origin main
           git reset --hard origin/main
+          git add README.md
+          git diff --cached --quiet || git commit -m "Auto-update skills table"
           git push origin main --force-with-lease
+
