@@ -4,16 +4,20 @@ import os
 USERNAME = "RudrasenaReddy87"  # your GitHub username
 README_FILE = "README.md"
 
+# Get token from environment
+TOKEN = os.getenv("GH_PAT")
+HEADERS = {'Authorization': f'token {TOKEN}'} if TOKEN else {}
+
 # Function to get languages used across all repos
 def get_languages(username):
     repos_url = f"https://api.github.com/users/{username}/repos"
-    repos = requests.get(repos_url).json()
+    repos = requests.get(repos_url, headers=HEADERS).json()
 
     language_stats = {}
     for repo in repos:
         if not repo.get("fork"):  # ignore forks
             lang_url = repo["languages_url"]
-            langs = requests.get(lang_url).json()
+            langs = requests.get(lang_url, headers=HEADERS).json()
             for lang, count in langs.items():
                 language_stats[lang] = language_stats.get(lang, 0) + count
 
