@@ -78,18 +78,33 @@ Check out my projects with live demos and code:
 <tr>
 <td align="center">
   <a href="https://rudrasenareddy87.github.io/Coding-Profiles/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ClickHere-blue?style=for-the-badge&logo=github" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-ClickHere-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
     <br>View My Projects
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/RudrasenaReddy87" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <br>Explore Code
   </a>
 </td>
 </tr>
 </table>
+
+---
+
+<h2 align="left">Interactive Project Cards</h2>
+<p align="center">
+<a href="https://rudrasenareddy87.github.io/Coding-Profiles/" target="_blank">
+<img src="https://img.shields.io/badge/React_Project-View-orange?style=for-the-badge&logo=react&logoColor=white" alt="React Project" />
+</a>
+<a href="https://rudrasenareddy87.github.io/Coding-Profiles/" target="_blank">
+<img src="https://img.shields.io/badge/Python_Project-View-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Project" />
+</a>
+<a href="https://rudrasenareddy87.github.io/Coding-Profiles/" target="_blank">
+<img src="https://img.shields.io/badge/FullStack_Project-View-green?style=for-the-badge&logo=node.js&logoColor=white" alt="FullStack Project" />
+</a>
+</p>
 
 ---
 
@@ -104,10 +119,8 @@ Check out my projects with live demos and code:
 
 <h2 align="center">Fun / Coding Vibe</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="300" alt="Coding GIF"/>
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Coding Fun"/>
+<img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="300" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Coding Fun"/>
 </p>
-
----
 
 <h2 align="center">Thanks for visiting! 🚀</h2>
