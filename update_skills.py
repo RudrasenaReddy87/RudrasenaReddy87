@@ -19,7 +19,7 @@ def get_languages(username):
             lang_url = repo["languages_url"]
             langs = requests.get(lang_url, headers=HEADERS).json()
             for lang, count in langs.items():
-                language_stats[lang] = language_stats.get(lang, 0) + count
+                language_stats[lang] = language_stats.get(lang, 0) + int(count)
 
     return language_stats
 
