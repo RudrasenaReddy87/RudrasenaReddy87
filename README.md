@@ -22,50 +22,9 @@
 
 ---
 
-## 🛠 Skills Overview
-
-<table style="border-collapse: collapse; border-radius: 10px; overflow: hidden; width: 100%;">
-  <tr>
-    <th>Language / Tool</th>
-    <th>Proficiency</th>
-    <th>Hours Spent</th>
-  </tr>
-  <tr>
-    <td><b>Python</b></td>
-    <td>
-      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
-        <div style="width:90%; background:#3776AB; padding:5px 0; border-radius:8px; color:white; text-align:center; animation: fillBar 2s ease-in-out;">90%</div>
-      </div>
-    </td>
-    <td>1200+ hrs</td>
-  </tr>
-  <tr>
-    <td><b>Java</b></td>
-    <td>
-      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
-        <div style="width:80%; background:#E34F26; padding:5px 0; border-radius:8px; color:white; text-align:center; animation: fillBar 2s ease-in-out;">80%</div>
-      </div>
-    </td>
-    <td>900+ hrs</td>
-  </tr>
-  <tr>
-    <td><b>React.js</b></td>
-    <td>
-      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
-        <div style="width:85%; background:#61DAFB; padding:5px 0; border-radius:8px; color:black; text-align:center; animation: fillBar 2s ease-in-out;">85%</div>
-      </div>
-    </td>
-    <td>1000+ hrs</td>
-  </tr>
-</table>
-
-<style>
-@keyframes fillBar {
-  0% { width: 0; }
-  100% { width: inherit; }
-}
-</style>
-
+## 🛠 Skills Overview (Auto Updated)
+<!-- SKILLS_TABLE_START -->
+<!-- SKILLS_TABLE_END -->
 
 ---
 
