@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bodireddy Rudrasena Reddy</h1>
-<h3 align="center">Aspiring Full Stack Developer | Frontend Developer (React.js, Python, Java) | 5⭐ HackerRank | Top 1 Coder in College (GFG) | Passionate Problem Solver</h3>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Bodireddy Rudrasena Reddy
+</h1>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Frontend+Developer+(React.js%2C+Python%2C+Java);5⭐+HackerRank+%7C+Top+1+Coder+(GFG);Passionate+Problem+Solver" alt="Typing SVG"/>
+  </a>
+</h3>
 
 ---
 
