@@ -20,6 +20,13 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
 
+      - name: Pull latest changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/RudrasenaReddy87/RudrasenaReddy87.git
+          git pull --rebase origin main
+
       - name: Set up Node
         uses: actions/setup-node@v3
         with:
@@ -33,7 +40,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/RudrasenaReddy87/RudrasenaReddy87.git
-          git pull --rebase origin main
           git add README.md
           git diff --cached --quiet || git commit -m "Auto-update skills table"
           git push
