@@ -30,58 +30,26 @@
 
 ---
 
-## 🛠 Skills Overview
+## 🛠 Skills
 
-<table style="border-collapse: collapse; border-radius: 12px; overflow: hidden; width: 100%;">
-  <tr>
-    <th>Language / Tool</th>
-    <th>Proficiency</th>
-    <th>Hours Spent</th>
-  </tr>
-  <tr>
-    <td><b>Python</b></td>
-    <td>
-      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
-        <div style="width:90%; background:#3776AB; padding:5px 0; border-radius:8px; color:white; text-align:center; animation: fillBar 2s ease-in-out;">90%</div>
-      </div>
-    </td>
-    <td>1200+ hrs</td>
-  </tr>
-  <tr>
-    <td><b>Java</b></td>
-    <td>
-      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
-        <div style="width:80%; background:#E34F26; padding:5px 0; border-radius:8px; color:white; text-align:center; animation: fillBar 2s ease-in-out;">80%</div>
-      </div>
-    </td>
-    <td>900+ hrs</td>
-  </tr>
-  <tr>
-    <td><b>React.js</b></td>
-    <td>
-      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
-        <div style="width:85%; background:#61DAFB; padding:5px 0; border-radius:8px; color:black; text-align:center; animation: fillBar 2s ease-in-out;">85%</div>
-      </div>
-    </td>
-    <td>1000+ hrs</td>
-  </tr>
-  <tr>
-    <td><b>Django</b></td>
-    <td>
-      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
-        <div style="width:75%; background:#092E20; padding:5px 0; border-radius:8px; color:white; text-align:center; animation: fillBar 2s ease-in-out;">75%</div>
-      </div>
-    </td>
-    <td>800+ hrs</td>
-  </tr>
-</table>
-
-<style>
-@keyframes fillBar {
-  0% { width: 0; }
-  100% { width: inherit; }
-}
-</style>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=database&logoColor=white" alt="Database"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+</p>
 
 ---
 
