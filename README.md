@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Aspiring Full Stack Developer | Frontend Developer (React.js, Python, Java) | 5⭐ HackerRank | Top Ranked Coder (GFG)
+  Aspiring Full Stack Developer | Frontend Developer (React.js, Python, Java) | 5⭐ HackerRank | Top 1 Ranked Coder in College (GFG)
 </h3>
 
 ---
