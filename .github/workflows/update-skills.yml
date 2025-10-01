@@ -27,13 +27,16 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/RudrasenaReddy87/RudrasenaReddy87.git
           git pull --rebase origin main
 
-      - name: Set up Node
-        uses: actions/setup-node@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          node-version: '18'
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
 
       - name: Run update script
-        run: node update-readme.js
+        run: python update_skills.py
 
       - name: Commit changes
         run: |
