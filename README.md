@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 B.Tech Computer Science graduate (CGPA 8.3)  
+- 🎓 B.Tech Computer Science Graduate (CGPA 8.3)  
 - 🏆 Solved **1600+ coding problems** across LeetCode, GFG, HackerRank, CodeChef, HackerEarth  
 - ⭐ 5⭐ HackerRank (Problem Solving)  
 - 🥇 Top 1 ranked coder in college on GeeksforGeeks  
@@ -22,12 +22,6 @@
 
 ---
 
-## 🛠 Skills Overview (Auto Updated)
-<!-- SKILLS_TABLE_START -->
-<!-- SKILLS_TABLE_END -->
-
----
-
 ## ⚡ Motto  
 
 <h3 align="center">
@@ -36,11 +30,66 @@
 
 ---
 
+## 🛠 Skills Overview
+
+<table style="border-collapse: collapse; border-radius: 12px; overflow: hidden; width: 100%;">
+  <tr>
+    <th>Language / Tool</th>
+    <th>Proficiency</th>
+    <th>Hours Spent</th>
+  </tr>
+  <tr>
+    <td><b>Python</b></td>
+    <td>
+      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
+        <div style="width:90%; background:#3776AB; padding:5px 0; border-radius:8px; color:white; text-align:center; animation: fillBar 2s ease-in-out;">90%</div>
+      </div>
+    </td>
+    <td>1200+ hrs</td>
+  </tr>
+  <tr>
+    <td><b>Java</b></td>
+    <td>
+      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
+        <div style="width:80%; background:#E34F26; padding:5px 0; border-radius:8px; color:white; text-align:center; animation: fillBar 2s ease-in-out;">80%</div>
+      </div>
+    </td>
+    <td>900+ hrs</td>
+  </tr>
+  <tr>
+    <td><b>React.js</b></td>
+    <td>
+      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
+        <div style="width:85%; background:#61DAFB; padding:5px 0; border-radius:8px; color:black; text-align:center; animation: fillBar 2s ease-in-out;">85%</div>
+      </div>
+    </td>
+    <td>1000+ hrs</td>
+  </tr>
+  <tr>
+    <td><b>Django</b></td>
+    <td>
+      <div style="background:#ddd; border-radius:8px; width:100%; overflow:hidden;">
+        <div style="width:75%; background:#092E20; padding:5px 0; border-radius:8px; color:white; text-align:center; animation: fillBar 2s ease-in-out;">75%</div>
+      </div>
+    </td>
+    <td>800+ hrs</td>
+  </tr>
+</table>
+
+<style>
+@keyframes fillBar {
+  0% { width: 0; }
+  100% { width: inherit; }
+}
+</style>
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudrasenaReddy87&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudrasenaReddy87&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RudrasenaReddy87&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudrasenaReddy87&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
