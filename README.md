@@ -24,8 +24,6 @@
 
 ## 🛠 Skills Overview
 
-## 🛠 Skills Overview
-
 <table style="border-collapse: collapse; border-radius: 10px; overflow: hidden; width: 100%;">
   <tr>
     <th>Language / Tool</th>

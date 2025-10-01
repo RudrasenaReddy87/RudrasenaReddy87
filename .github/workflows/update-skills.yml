@@ -20,23 +20,21 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Set up Node
+        uses: actions/setup-node@v3
         with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: pip install requests
+          node-version: '18'
 
       - name: Run update script
-        run: python update_skills.py
+        run: node update-readme.js
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/RudrasenaReddy87/RudrasenaReddy87.git
-          git pull --rebase origin main
+          git fetch origin main
+          git reset --hard origin/main
           git add README.md
           git commit -m "Auto-update skills table"
           git push

@@ -1,4 +1,4 @@
-const fs = require('fs-extra');
+const fs = require('fs');
 
 const readmePath = './README.md';
 const skillsData = fs.readJsonSync('./skills.json');
