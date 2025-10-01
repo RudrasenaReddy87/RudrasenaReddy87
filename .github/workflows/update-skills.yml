@@ -36,5 +36,5 @@ jobs:
           git fetch origin main
           git reset --hard origin/main
           git add README.md
-          git commit -m "Auto-update skills table"
+          git diff --cached --quiet || git commit -m "Auto-update skills table"
           git push
