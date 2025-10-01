@@ -2,7 +2,7 @@ name: Update Skills Table
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at midnight
+    - cron: "0 0 * * *"   # runs daily at midnight
   workflow_dispatch:
 
 permissions:
@@ -11,22 +11,12 @@ permissions:
 jobs:
   update-skills:
     runs-on: ubuntu-latest
-    env:
-      GH_PAT: ${{ secrets.GH_PAT }}
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GH_PAT }}
-          fetch-depth: 0   # important: fetch full history
-
-      - name: Pull latest changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git fetch origin main
-          git reset --hard origin/main   # reset to remote main to avoid conflicts
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -45,5 +35,5 @@ jobs:
           git config user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/RudrasenaReddy87/RudrasenaReddy87.git
           git add README.md
-          git diff --cached --quiet || git commit -m "Auto-update skills table"
-          git push --force
+          git commit -m "Auto-update skills table"
+          git push
