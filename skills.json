@@ -1,0 +1,7 @@
+{
+  "skills": [
+    {"name": "Python", "proficiency": 90, "hours": 1200},
+    {"name": "Java", "proficiency": 80, "hours": 900},
+    {"name": "React.js", "proficiency": 85, "hours": 1000}
+  ]
+}

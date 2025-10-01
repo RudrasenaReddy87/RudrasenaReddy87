@@ -24,10 +24,13 @@
 
 ## 🛠 Skills Overview
 
+## 🛠 Skills Overview
+
 <table style="border-collapse: collapse; border-radius: 10px; overflow: hidden; width: 100%;">
   <tr>
     <th>Language / Tool</th>
     <th>Proficiency</th>
+    <th>Hours Spent</th>
   </tr>
   <tr>
     <td><b>Python</b></td>
@@ -36,6 +39,7 @@
         <div style="width:90%; background:#3776AB; padding:5px 0; border-radius:8px; color:white; text-align:center; animation: fillBar 2s ease-in-out;">90%</div>
       </div>
     </td>
+    <td>1200+ hrs</td>
   </tr>
   <tr>
     <td><b>Java</b></td>
@@ -44,6 +48,7 @@
         <div style="width:80%; background:#E34F26; padding:5px 0; border-radius:8px; color:white; text-align:center; animation: fillBar 2s ease-in-out;">80%</div>
       </div>
     </td>
+    <td>900+ hrs</td>
   </tr>
   <tr>
     <td><b>React.js</b></td>
@@ -52,6 +57,7 @@
         <div style="width:85%; background:#61DAFB; padding:5px 0; border-radius:8px; color:black; text-align:center; animation: fillBar 2s ease-in-out;">85%</div>
       </div>
     </td>
+    <td>1000+ hrs</td>
   </tr>
 </table>
 
@@ -61,6 +67,15 @@
   100% { width: inherit; }
 }
 </style>
+
+
+---
+
+## ⚡ Motto  
+
+<h3 align="center">
+  "Code is like humor. When you have to explain it, it’s bad."
+</h3>
 
 ---
 
@@ -74,14 +89,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudrasenaReddy87&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
----
-
-## ⚡ Motto  
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400" alt="Coding Motto"/>
-</h3>
 
 ---
 
