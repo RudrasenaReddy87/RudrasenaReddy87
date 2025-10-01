@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greeting</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+            background-color: #f0f0f0;
+        }
+        #greeting {
+            font-size: 2em;
+            border-right: 2px solid #000;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div id="greeting"></div>
+
+    <script>
+        const text = "Hi there, I'm Bodireddy Rudrasena Reddy";
+        let index = 0;
+        const speed = 100; // milliseconds per character
+
+        function typeWriter() {
+            if (index < text.length) {
+                document.getElementById("greeting").innerHTML += text.charAt(index);
+                index++;
+                setTimeout(typeWriter, speed);
+            }
+        }
+
+        typeWriter();
+    </script>
+</body>
+</html>
