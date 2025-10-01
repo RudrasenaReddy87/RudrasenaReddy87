@@ -51,9 +51,7 @@ jobs:
         run: |
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/RudrasenaReddy87/RudrasenaReddy87.git
           git add README.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Auto-update skills table and GitHub stats"
-            git push --force
-          fi
+          git pull origin main
+          git add .
+          git commit -m "Making & Update changes"
+          git push -u origin main
