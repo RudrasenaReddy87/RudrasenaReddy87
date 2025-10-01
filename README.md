@@ -97,7 +97,7 @@
 
 - 5⭐ HackerRank (Problem Solving)  
 - Top Ranked Coder on GeeksforGeeks  
-- 1600+ coding problems solved across platforms  
+- 1500+ coding problems solved across platforms  
 - Built 5+ real-time projects using React.js, Node.js, Django  
 - Consistent performance on CodeChef, LeetCode & GFG  
 
