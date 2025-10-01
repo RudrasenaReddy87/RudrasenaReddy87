@@ -3,55 +3,30 @@
 </h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Frontend+Developer+(React.js%2C+Python%2C+Java);5⭐+HackerRank+%7C+Top+1+Coder+(GFG);Passionate+Problem+Solver" alt="Typing SVG"/>
-  </a>
+  Aspiring Full Stack Developer | Frontend Developer (React.js, Python, Java) | 5⭐ HackerRank | Top 1 Coder in College (GFG)
 </h3>
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 🎓 B.Tech Computer Science graduate with **CGPA 8.3** from Sri Venkatesa Perumal College of Engineering & Technology.  
-- 🏆 **Solved 1600+ coding problems** across platforms (LeetCode, GFG, CodeChef, HackerRank, HackerEarth).  
-- ⭐ **5⭐ HackerRank** (Problem Solving).  
-- 🥇 **Top 1 ranked coder** in college on GeeksforGeeks.  
-- 💻 Hands-on experience in **Full Stack Development** using Python, Java, React.js, Node.js, Django, Flask.  
-- 🛢️ Strong database skills: **MySQL, MongoDB, PostgreSQL, SQLite**.  
-- ☁️ Familiar with **AWS, Azure, Docker, Linux, Git**.  
-- 🔍 Actively seeking **Software Developer (Full Stack / Backend / Python)** opportunities.  
+- 🎓 B.Tech Computer Science graduate (CGPA 8.3) from Sri Venkatesa Perumal College of Engineering & Technology  
+- 🏆 Solved **1600+ coding problems** across LeetCode, GFG, HackerRank, CodeChef, HackerEarth  
+- ⭐ 5⭐ HackerRank (Problem Solving)  
+- 🥇 Top 1 ranked coder in college on GeeksforGeeks  
+- 💻 Full Stack Development: Python, Java, React.js, Node.js, Django, Flask  
+- 🛢️ Databases: MySQL, MongoDB, PostgreSQL, SQLite  
+- ☁️ Tools & Platforms: AWS, Azure, Docker, Linux, Git  
 - 🌐 Portfolio: [rudrasenareddy87.github.io/Coding-Profiles](https://rudrasenareddy87.github.io/Coding-Profiles/)  
+- 🔍 Seeking Software Developer roles (Full Stack / Backend / Python)  
 
 ---
 
-## 🔗 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/bodireddyrudrasenareddy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RudrasenaReddy87">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:b.rudrasenareddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RudrasenaReddy87&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitors"/>
-</p>
-
----
-
-## 🛠 Skills Overview (Auto Updated)
-
-<!-- START_SKILLS -->
-<!-- This section will be auto-updated by update_skills.py -->
+## 🛠 Skills Overview
 
 <table style="border-collapse: collapse; border-radius: 10px; overflow: hidden; width: 100%;">
   <tr>
-    <th>Language/Tool</th>
+    <th>Language / Tool</th>
     <th>Proficiency</th>
   </tr>
   <tr>
@@ -80,8 +55,6 @@
   </tr>
 </table>
 
-<!-- END_SKILLS -->
-
 ---
 
 ## 📊 GitHub Stats  
@@ -94,3 +67,61 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudrasenaReddy87&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+---
+
+## ⚡ Fun Fact / Motto  
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400" alt="Coding Motto"/>
+</h3>
+
+---
+
+## 👁 Profile Insights  
+
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=RudrasenaReddy87&label=Profile+Visitors&color=blue&style=for-the-badge" alt="Profile Visitors"/>
+    <img src="https://img.shields.io/badge/Active%20Since-2023-blue?style=for-the-badge"/>
+  </p>
+</div>
+
+---
+
+## 🌍 Connect & Coding Platforms  
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
+
+  <!-- Social Media -->
+  <a href="https://linkedin.com/in/bodireddyrudrasenareddy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RudrasenaReddy87">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:b.rudrasenareddy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/rudrasenareddy_87">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- Coding Platforms -->
+  <a href="https://www.leetcode.com/rudrasenareddy">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/brudrasenareddy">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/rudrasenareddy">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/rudrasenareddy">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerearth.com/@rudrasenareddy">
+    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+  </a>
+
+</div>
