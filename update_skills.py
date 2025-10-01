@@ -83,5 +83,18 @@ if __name__ == "__main__":
     stats = get_languages(USERNAME)
     percentages = calculate_percentages(stats)
     new_table = generate_table(percentages)
-    update_readme(new_table)
-    print("✅ README updated with latest skills table.")
+
+    # Add GitHub stats section
+    github_stats = """
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudrasenaReddy87&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streaks
+
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=RudrasenaReddy87&theme=radical)
+"""
+
+    full_content = new_table + "\n" + github_stats
+    update_readme(full_content)
+    print("✅ README updated with latest skills table and GitHub stats.")
