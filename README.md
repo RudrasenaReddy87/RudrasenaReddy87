@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me  
 
 - 🎯 Passionate about building efficient, scalable, and user-friendly software  
-- 🏆 Solved **1600+ coding problems** across LeetCode, GFG, HackerRank, CodeChef, HackerEarth  
+- 🏆 Solved **1500+ coding problems** across LeetCode, GFG, HackerRank, CodeChef, HackerEarth  
 - ⭐ 5⭐ HackerRank (Problem Solving)  
 - 💻 Experienced in Full Stack Development (Python, Java, React.js, Node.js, Django, Flask)  
 - 🛢️ Skilled with Databases: MySQL, SQLite, PostgreSQL, MongoDB (NoSQL)  
