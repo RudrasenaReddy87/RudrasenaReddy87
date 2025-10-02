@@ -19,11 +19,7 @@
 
 ## ⚡ Motto  
 
-<h3 align="center">  
-<img src="https://img.shields.io/badge/Code-3C873A?style=for-the-badge&logo=codeforces&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Collaborate-1DA1F2?style=for-the-badge&logo=teams&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Create-FB8C00?style=for-the-badge&logo=createreactapp&logoColor=white"/>  
-</h3>  
+Code. Collaborate. Create.
 
 ---  
 
