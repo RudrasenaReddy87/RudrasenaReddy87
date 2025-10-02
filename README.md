@@ -103,30 +103,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudrasenaReddy87&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudrasenaReddy87&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudrasenaReddy87&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-## 👁 Profile Insights  
-
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=RudrasenaReddy87&label=Profile+Visitors&color=blue&style=for-the-badge" alt="Profile Visitors"/>
-    <img src="https://img.shields.io/badge/Active%20Since-2023-blue?style=for-the-badge"/>
-  </p>
-</div>
-
----
-
 ## 🌍 Connect & Coding Platforms  
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
