@@ -24,7 +24,7 @@
 ## ⚡ Motto  
 
 <h3 align="center">
-  "Code. Collaborate. Create.
+  Code. Collaborate. Create.
 </h3>
 
 ---
